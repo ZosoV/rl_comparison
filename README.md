@@ -20,9 +20,9 @@ Over time, I intend to compare the functionality and implement well known RL alg
 
 ## Paper Reviews
 
-- [] Q-Learning: 
+- [ ] Q-Learning: 
 - [x] DQN: [Code](001_dqn.ipynb) | [Summary]() | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) | There is another version in Nature.
-- [x] REINFORCE: [Summary]() | [Intro to Policy Optimization](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
+- [x] REINFORCE: [Summary]() | [Intro to Policy Optimization](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html) | [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778)
 - [x] A2C / A3C: [Summary](002_A2C_A3C.md) | [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
 
 ## Extra Sources
