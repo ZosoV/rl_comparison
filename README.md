@@ -1,4 +1,6 @@
-# RL Comparison
+# Minimal RL: Fundamental Reinforcement Learning Algorithms Comparison
+
+**State:** In Progress
 
 Over time, I intend to compare the functionality and implement well known RL algorithm. I'm going to focus on the model-free domain, but over time I would like to cover the whole following map.
 
