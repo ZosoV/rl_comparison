@@ -19,6 +19,13 @@ Over time, I intend to compare the functionality and implement well known RL alg
 
 **NOTE:** $\hat{R}_t$ can be modeled with the infinite discounted return or finite undiscounted return.
 
+## TODOS
+- [ ] Complete note 001_DQN
+- [ ] Write a short summary of 003 REINFORCE
+- [ ] Code A2C
+- [ ] Code REINFORCE
+- [ ] Review TRPO
+
 ## Paper Reviews
 
 - [ ] Q-Learning: 
