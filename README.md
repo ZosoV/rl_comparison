@@ -39,3 +39,4 @@ Over time, I intend to compare the functionality and implement well known RL alg
 - https://www.youtube.com/live/-PxTOolYPzQ?si=X-8lBKmBUr3Kxma8&t=26323
 - https://deeplearning.neuromatch.io/_images/lunar_lander.svg
 - https://www.youtube.com/live/KUaoh2I5H88?si=-S-LcZvglrrPT6SC&t=25049
+- https://www.youtube.com/watch?v=TjHH_--7l8g&ab_channel=Serrano.Academy
